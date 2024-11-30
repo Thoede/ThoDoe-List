@@ -2,10 +2,10 @@
 Simple *to do list* using html,css and js
 
 ## Features
--Add tasks.
--Mark tasks as completed.
--Delete tasks.
--Save tasks with localStorage.
+- Add tasks.
+- Mark tasks as completed.
+- Delete tasks.
+- Save tasks with localStorage.
 
 ## How to Use
 1. Clone the repository:
