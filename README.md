@@ -1,5 +1,5 @@
 # ThoDoe-List
-Simple to do list using html,css and js
+Simple *to do list* using html,css and js
 
 ## Features
 Add tasks.
@@ -10,6 +10,6 @@ Save tasks with localStorage.
 ## How to Use
 Clone the repository:
 ```bash
-git clone <repository-url> ```
+git clone https://github.com/Thoede/ThoDoe-List
 ```
 Open index.html in your browser.
