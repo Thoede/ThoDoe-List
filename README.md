@@ -1,5 +1,5 @@
 # ThoDoe-List
-Simple *to do list* using html,css and js
+Simple **to do list** using html,css and js
 
 ## Features
 - Add tasks.
